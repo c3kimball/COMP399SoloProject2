@@ -6,6 +6,7 @@ The working title I have for this game is, "Clown Maze: A Terrible Experience". 
 There is no escaping the maze, so you're only option is to defeat all 4 enemies.
 
 ### Features
-A maze "solving" expereice with a 3-rd person camera <br>
+3-rd person camera <br>
 A Pause menu to quit the game <br>
-"Dynamic" AI that wanders through the maze, that only rarely get stuck on each other
+AI that wanders through the maze, that only rarely get stuck on each other <br>
+2 unique attacks to defeat enemies
